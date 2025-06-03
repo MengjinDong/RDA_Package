@@ -1,0 +1,29 @@
+__pycache__/
+
+
+*.i
+*.ii
+*.gpu
+*.ptx
+*.cubin
+*.fatbin
+
+
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Virtual environments
+venv/
+.env/
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
